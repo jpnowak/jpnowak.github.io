@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jpnowak.github.io
+title: The Christ is Right
+email: 
+author: jpnowak
+description: My awesome new site
+paginate: 3
+google_analytics: 
